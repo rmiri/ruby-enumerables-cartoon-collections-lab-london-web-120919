@@ -23,7 +23,7 @@ def find_the_cheese(array)# code an argument here
   array.each { |e| cheese_types.include?(e)
     p e
   }
-  
+
 
 end
 
